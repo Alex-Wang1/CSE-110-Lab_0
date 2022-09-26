@@ -8,13 +8,14 @@ to the Fall quarter training.**
 
 > This is a picture of last Saturday I ride with Dan (member of UCSD Cycling Team)
 
-<picture>
+<!-- <picture>
   <srcset = "https://github.com/Alex-Wang1/CSE-110-Lab_0/blob/main/IMG_4271.jpg?raw=true">
   <img alt = "picture of riding with Dan">
-</picture>
+</picture> -->
   
 > Fun Meme
 ## In case of fire 🔥
-  1. git commit
-  2. git push
-  3. leave building`
+  
+1. git commit
+2. git push
+3. leave building
