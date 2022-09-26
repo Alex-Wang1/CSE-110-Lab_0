@@ -16,7 +16,7 @@ to the Fall quarter training.**
 > Fun Meme
 ### In case of fire 🔥
 ```
-1. git commit
-2. git push
-3. leave building
+💬 1. git commit
+💾 2. git push
+🏃🏻 3. leave building
 ```
