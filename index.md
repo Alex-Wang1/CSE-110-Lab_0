@@ -12,3 +12,9 @@ to the Fall quarter training.**
   <srcset = "https://github.com/Alex-Wang1/CSE-110-Lab_0/blob/main/IMG_4271.jpg?raw=true">
   <img alt = "picture of riding with Dan">
 </picture>
+  
+> Fun Meme
+  ## In case of fire 🔥
+  `1. git commit
+  2. git push
+  3. leave building`
