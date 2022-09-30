@@ -8,10 +8,6 @@ to the Fall quarter training.**
 
 > This is a picture of last Saturday I ride with Daniel (member of UCSD Cycling Team)
 
-<!-- <picture>
-  <srcset = "https://github.com/Alex-Wang1/CSE-110-Lab_0/blob/main/IMG_4271.jpg?raw=true">
-  <img alt = "picture of riding with Dan">
-</picture> -->
 ![picture of riding with Dan](https://github.com/Alex-Wang1/CSE-110-Lab_0/blob/main/IMG_4271.jpg)
   
 > Fun Meme
@@ -21,3 +17,5 @@ to the Fall quarter training.**
 💾 2. git push
 🏃🏻 3. leave building
 ```
+
+This site was built using [Github Page] (https://pages.github.com/)
