@@ -18,4 +18,4 @@ to the Fall quarter training.**
 🏃🏻 3. leave building
 ```
 
-This site was built using [Github Page] (https://pages.github.com/)
+This site was built using [Github Page](https://pages.github.com/).
