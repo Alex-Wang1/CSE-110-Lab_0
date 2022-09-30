@@ -40,6 +40,6 @@ This site was built using [Github Page](https://pages.github.com/).
 
 - [x] Finish the Lab 0&1  
 - [x] Do a short morning ride
-- [ ] Meet a racoon out of my dorm
+- [ ] Meet a racoon out of my dorm (dayum why this is still not complete???)
 
 
