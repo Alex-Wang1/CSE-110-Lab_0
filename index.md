@@ -20,4 +20,6 @@ to the Fall quarter training.**
 🏃🏻 3. leave building
 ```
 
+> Lab part (done with my intro, rest for Lab 0&1 requirements)
+
 This site was built using [Github Page](https://pages.github.com/).
