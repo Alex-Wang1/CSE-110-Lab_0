@@ -20,6 +20,7 @@ to the Fall quarter training.**
 🏃🏻 3. leave building
 ```
 
-> Lab part (done with my intro, rest for Lab 0&1 requirements)
+> Lab part (done with my intro, rest MarkDown for Lab 0&1 requirements)
 
 This site was built using [Github Page](https://pages.github.com/).
+[A section link to the top](# Zheyuan)
