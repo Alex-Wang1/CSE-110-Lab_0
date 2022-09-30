@@ -1,5 +1,7 @@
 # Zheyuan Wang's Git User Page
 
+> Me as a programmer and a person
+
 **As a programmer, I like to do web dev, more about front end. Since interacting with the user makes me feel
 interesting than building the database,etc.**
 
