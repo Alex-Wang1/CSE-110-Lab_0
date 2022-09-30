@@ -1,4 +1,4 @@
-# [Zheyuan Wang's Git User Page](https://pages.github.com/)
+# Zheyuan Wang's Git User Page
 
 > Me as a programmer and a person
 
@@ -24,3 +24,4 @@ to the Fall quarter training.**
 
 This site was built using [Github Page](https://pages.github.com/).
 [A section link to the top](# zheyuan-wang's-git-user-page)
+
