@@ -24,4 +24,22 @@ to the Fall quarter training.**
 
 This site was built using [Github Page](https://pages.github.com/).
 
+[Relative link to a picture on my Github](IMG_4271.jpg)
+
+- list
+- unordered
+- an
+- is
+- This
+
+1. This
+2. is 
+3. an 
+4. ordered
+5. list
+
+- [x] Finish the Lab 0&1  
+- [x] Do a short morning ride
+- [ ] Meet a racoon out of my dorm
+
 
