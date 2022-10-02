@@ -10,7 +10,7 @@ to the Fall quarter training.**
 
 > This is a picture of last Saturday I ride with Daniel (member of UCSD Cycling Team)
 
-![picture of riding with Dan](https://github.com/Alex-Wang1/CSE-110-Lab_0/blob/main/IMG_4271.jpg)
+![picture of riding with Dan](https://github.com/Alex-Wang1/CSE-110-Lab_0/blob/main/IMG_4271.jpg?raw=true)
   
 > Fun Meme
 ### In case of fire 🔥
